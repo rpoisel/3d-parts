@@ -1,0 +1,5 @@
+Router measurements:
+  * diameter: 65mm
+  * Length round shape: 80mm
+  * Length head: 70mm
+  * Width head: 80mm/100mm (cable)
